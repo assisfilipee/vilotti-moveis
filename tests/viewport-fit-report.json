@@ -1,0 +1,2414 @@
+﻿{
+    "before":  {
+                   "phase":  "before",
+                   "results":  [
+                                   {
+                                       "width":  1920,
+                                       "height":  1080,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  1080,
+                                                            "sectionHeight":  1080,
+                                                            "available":  1080,
+                                                            "header":  97,
+                                                            "top":  0,
+                                                            "contentTop":  194,
+                                                            "contentBottom":  1048,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  657,
+                                                            "sectionHeight":  657,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  267,
+                                                            "contentBottom":  584,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  984,
+                                                            "sectionHeight":  4212,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  124,
+                                                            "contentBottom":  1038,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1224,
+                                                            "sectionHeight":  1224,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  209,
+                                                            "contentBottom":  1153,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1207,
+                                                            "sectionHeight":  1207,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  241,
+                                                            "contentBottom":  1160,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  1121,
+                                                            "sectionHeight":  1121,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  331,
+                                                            "contentBottom":  1058,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  1305,
+                                                            "sectionHeight":  1305,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  241,
+                                                            "contentBottom":  1257,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  994,
+                                                            "sectionHeight":  994,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  365,
+                                                            "contentBottom":  951,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  649,
+                                                            "sectionHeight":  649,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  197,
+                                                            "contentBottom":  612,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  692,
+                                                            "sectionHeight":  692,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  99,
+                                                            "contentTop":  264,
+                                                            "contentBottom":  647,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  288,
+                                                            "sectionHeight":  288,
+                                                            "available":  983,
+                                                            "header":  97,
+                                                            "top":  791,
+                                                            "contentTop":  841,
+                                                            "contentBottom":  1056,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  1440,
+                                       "height":  900,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  900,
+                                                            "sectionHeight":  900,
+                                                            "available":  900,
+                                                            "header":  97,
+                                                            "top":  0,
+                                                            "contentTop":  162,
+                                                            "contentBottom":  868,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  580,
+                                                            "sectionHeight":  580,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  241,
+                                                            "contentBottom":  533,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  804,
+                                                            "sectionHeight":  3510,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  124,
+                                                            "contentBottom":  858,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1181,
+                                                            "sectionHeight":  1181,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  198,
+                                                            "contentBottom":  1124,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1165,
+                                                            "sectionHeight":  1165,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  227,
+                                                            "contentBottom":  1133,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  1008,
+                                                            "sectionHeight":  1008,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  291,
+                                                            "contentBottom":  958,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  1190,
+                                                            "sectionHeight":  1190,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  227,
+                                                            "contentBottom":  1158,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  974,
+                                                            "sectionHeight":  974,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  368,
+                                                            "contentBottom":  941,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  640,
+                                                            "sectionHeight":  640,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  198,
+                                                            "contentBottom":  602,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  663,
+                                                            "sectionHeight":  663,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  252,
+                                                            "contentBottom":  631,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  288,
+                                                            "sectionHeight":  288,
+                                                            "available":  803,
+                                                            "header":  97,
+                                                            "top":  612,
+                                                            "contentTop":  662,
+                                                            "contentBottom":  876,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  1366,
+                                       "height":  768,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  840,
+                                                            "sectionHeight":  840,
+                                                            "available":  768,
+                                                            "header":  97,
+                                                            "top":  0,
+                                                            "contentTop":  155,
+                                                            "contentBottom":  808,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  554,
+                                                            "sectionHeight":  554,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  234,
+                                                            "contentBottom":  515,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  672,
+                                                            "sectionHeight":  2995,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  124,
+                                                            "contentBottom":  726,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1161,
+                                                            "sectionHeight":  1161,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  192,
+                                                            "contentBottom":  1111,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1145,
+                                                            "sectionHeight":  1145,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  220,
+                                                            "contentBottom":  1119,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  956,
+                                                            "sectionHeight":  956,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  274,
+                                                            "contentBottom":  912,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  1138,
+                                                            "sectionHeight":  1138,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  220,
+                                                            "contentBottom":  1112,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  963,
+                                                            "sectionHeight":  963,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  369,
+                                                            "contentBottom":  937,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  640,
+                                                            "sectionHeight":  640,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  202,
+                                                            "contentBottom":  597,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  650,
+                                                            "sectionHeight":  650,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  97,
+                                                            "contentTop":  248,
+                                                            "contentBottom":  624,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  288,
+                                                            "sectionHeight":  288,
+                                                            "available":  671,
+                                                            "header":  97,
+                                                            "top":  480,
+                                                            "contentTop":  530,
+                                                            "contentBottom":  744,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  1024,
+                                       "height":  768,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  819,
+                                                            "sectionHeight":  819,
+                                                            "available":  768,
+                                                            "header":  81,
+                                                            "top":  0,
+                                                            "contentTop":  155,
+                                                            "contentBottom":  787,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  479,
+                                                            "sectionHeight":  479,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  183,
+                                                            "contentBottom":  458,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  1902,
+                                                            "sectionHeight":  1902,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  154,
+                                                            "contentBottom":  1935,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1485,
+                                                            "sectionHeight":  1485,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  153,
+                                                            "contentBottom":  1450,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1041,
+                                                            "sectionHeight":  1041,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  174,
+                                                            "contentBottom":  1031,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  833,
+                                                            "sectionHeight":  833,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  241,
+                                                            "contentBottom":  799,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  917,
+                                                            "sectionHeight":  917,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  173,
+                                                            "contentBottom":  906,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  832,
+                                                            "sectionHeight":  832,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  320,
+                                                            "contentBottom":  821,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  640,
+                                                            "sectionHeight":  640,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  211,
+                                                            "contentBottom":  557,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  589,
+                                                            "sectionHeight":  589,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  215,
+                                                            "contentBottom":  577,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  288,
+                                                            "sectionHeight":  288,
+                                                            "available":  687,
+                                                            "header":  81,
+                                                            "top":  479,
+                                                            "contentTop":  529,
+                                                            "contentBottom":  744,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  768,
+                                       "height":  1024,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  800,
+                                                            "sectionHeight":  800,
+                                                            "available":  1024,
+                                                            "header":  81,
+                                                            "top":  0,
+                                                            "contentTop":  155,
+                                                            "contentBottom":  768,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  438,
+                                                            "sectionHeight":  438,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  171,
+                                                            "contentBottom":  429,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  1467,
+                                                            "sectionHeight":  1467,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  154,
+                                                            "contentBottom":  1500,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1456,
+                                                            "sectionHeight":  1456,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  145,
+                                                            "contentBottom":  1433,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1040,
+                                                            "sectionHeight":  1040,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  161,
+                                                            "contentBottom":  1041,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  671,
+                                                            "sectionHeight":  671,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  161,
+                                                            "contentBottom":  666,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  763,
+                                                            "sectionHeight":  763,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  161,
+                                                            "contentBottom":  764,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  642,
+                                                            "sectionHeight":  642,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  199,
+                                                            "contentBottom":  643,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  640,
+                                                            "sectionHeight":  640,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  81,
+                                                            "contentTop":  221,
+                                                            "contentBottom":  547,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  564,
+                                                            "sectionHeight":  564,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  148,
+                                                            "contentTop":  270,
+                                                            "contentBottom":  632,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  311,
+                                                            "sectionHeight":  311,
+                                                            "available":  943,
+                                                            "header":  81,
+                                                            "top":  712,
+                                                            "contentTop":  762,
+                                                            "contentBottom":  1000,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  390,
+                                       "height":  844,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  1105,
+                                                            "sectionHeight":  1105,
+                                                            "available":  844,
+                                                            "header":  77,
+                                                            "top":  0,
+                                                            "contentTop":  126,
+                                                            "contentBottom":  1105,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  477,
+                                                            "sectionHeight":  477,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  474,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  2095,
+                                                            "sectionHeight":  2095,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  138,
+                                                            "contentBottom":  2172,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1422,
+                                                            "sectionHeight":  1422,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  141,
+                                                            "contentBottom":  1401,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1355,
+                                                            "sectionHeight":  1355,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  1352,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  1122,
+                                                            "sectionHeight":  1122,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  478,
+                                                            "contentBottom":  1113,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  917,
+                                                            "sectionHeight":  917,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  914,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  985,
+                                                            "sectionHeight":  985,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  158,
+                                                            "contentBottom":  982,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  610,
+                                                            "sectionHeight":  610,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  217,
+                                                            "contentBottom":  513,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  899,
+                                                            "sectionHeight":  899,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  895,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  518,
+                                                            "sectionHeight":  518,
+                                                            "available":  767,
+                                                            "header":  77,
+                                                            "top":  325,
+                                                            "contentTop":  375,
+                                                            "contentBottom":  756,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   },
+                                   {
+                                       "width":  375,
+                                       "height":  667,
+                                       "sections":  [
+                                                        {
+                                                            "selector":  "inicio",
+                                                            "height":  1091,
+                                                            "sectionHeight":  1091,
+                                                            "available":  667,
+                                                            "header":  77,
+                                                            "top":  0,
+                                                            "contentTop":  126,
+                                                            "contentBottom":  1091,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "manifesto",
+                                                            "height":  498,
+                                                            "sectionHeight":  498,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  495,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "projetos",
+                                                            "height":  2061,
+                                                            "sectionHeight":  2061,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  138,
+                                                            "contentBottom":  2138,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "ambientes",
+                                                            "height":  1466,
+                                                            "sectionHeight":  1466,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  141,
+                                                            "contentBottom":  1445,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "processo",
+                                                            "height":  1340,
+                                                            "sectionHeight":  1340,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  1337,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "sobre",
+                                                            "height":  1127,
+                                                            "sectionHeight":  1127,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  460,
+                                                            "contentBottom":  1118,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "detalhes",
+                                                            "height":  898,
+                                                            "sectionHeight":  898,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  895,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "project-highlight",
+                                                            "height":  966,
+                                                            "sectionHeight":  966,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  158,
+                                                            "contentBottom":  963,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "final-cta",
+                                                            "height":  610,
+                                                            "sectionHeight":  610,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  193,
+                                                            "contentBottom":  536,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "contato",
+                                                            "height":  899,
+                                                            "sectionHeight":  899,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  77,
+                                                            "contentTop":  157,
+                                                            "contentBottom":  896,
+                                                            "fits":  false,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        },
+                                                        {
+                                                            "selector":  "site-footer",
+                                                            "height":  518,
+                                                            "sectionHeight":  518,
+                                                            "available":  590,
+                                                            "header":  77,
+                                                            "top":  149,
+                                                            "contentTop":  199,
+                                                            "contentBottom":  579,
+                                                            "fits":  true,
+                                                            "clipped":  [
+
+                                                                        ],
+                                                            "horizontalOverflow":  false
+                                                        }
+                                                    ]
+                                   }
+                               ],
+                   "errors":  [
+
+                              ],
+                   "output":  "C:\\Users\\User\\AppData\\Local\\Temp\\vilotti-viewport-fit\\before"
+               },
+    "after":  {
+                  "phase":  "after",
+                  "results":  [
+                                  {
+                                      "width":  1920,
+                                      "height":  1080,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  1080,
+                                                           "sectionHeight":  1080,
+                                                           "available":  1080,
+                                                           "header":  97,
+                                                           "top":  0,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  1058,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  380,
+                                                           "sectionHeight":  380,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  439,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  983,
+                                                           "sectionHeight":  4212,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  118,
+                                                           "contentBottom":  1041,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  983,
+                                                           "sectionHeight":  983,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  1022,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  983,
+                                                           "sectionHeight":  983,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  1024,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  983,
+                                                           "sectionHeight":  983,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  967,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  983,
+                                                           "sectionHeight":  983,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  135,
+                                                           "contentBottom":  1041,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  983,
+                                                           "sectionHeight":  983,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  163,
+                                                           "contentBottom":  1040,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  640,
+                                                           "sectionHeight":  640,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  192,
+                                                           "contentBottom":  607,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  540,
+                                                           "sectionHeight":  540,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  285,
+                                                           "contentTop":  323,
+                                                           "contentBottom":  787,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  255,
+                                                           "sectionHeight":  255,
+                                                           "available":  983,
+                                                           "header":  97,
+                                                           "top":  825,
+                                                           "contentTop":  862,
+                                                           "contentBottom":  1056,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  1440,
+                                      "height":  900,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  900,
+                                                           "sectionHeight":  900,
+                                                           "available":  900,
+                                                           "header":  97,
+                                                           "top":  0,
+                                                           "contentTop":  129,
+                                                           "contentBottom":  878,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  328,
+                                                           "sectionHeight":  328,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  129,
+                                                           "contentBottom":  393,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  803,
+                                                           "sectionHeight":  3510,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  118,
+                                                           "contentBottom":  861,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  803,
+                                                           "sectionHeight":  803,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  848,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  803,
+                                                           "sectionHeight":  803,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  868,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  803,
+                                                           "sectionHeight":  803,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  836,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  803,
+                                                           "sectionHeight":  803,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  867,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  803,
+                                                           "sectionHeight":  803,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  152,
+                                                           "contentBottom":  866,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  640,
+                                                           "sectionHeight":  640,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  203,
+                                                           "contentBottom":  596,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  467,
+                                                           "sectionHeight":  467,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  189,
+                                                           "contentTop":  220,
+                                                           "contentBottom":  624,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  244,
+                                                           "sectionHeight":  244,
+                                                           "available":  803,
+                                                           "header":  97,
+                                                           "top":  656,
+                                                           "contentTop":  687,
+                                                           "contentBottom":  876,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  1366,
+                                      "height":  768,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  768,
+                                                           "sectionHeight":  768,
+                                                           "available":  768,
+                                                           "header":  97,
+                                                           "top":  0,
+                                                           "contentTop":  124,
+                                                           "contentBottom":  746,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  286,
+                                                           "sectionHeight":  286,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  124,
+                                                           "contentBottom":  356,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  671,
+                                                           "sectionHeight":  2995,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  118,
+                                                           "contentBottom":  729,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  671,
+                                                           "sectionHeight":  671,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  123,
+                                                           "contentBottom":  721,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  671,
+                                                           "sectionHeight":  671,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  123,
+                                                           "contentBottom":  741,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  671,
+                                                           "sectionHeight":  671,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  123,
+                                                           "contentBottom":  709,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  671,
+                                                           "sectionHeight":  671,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  123,
+                                                           "contentBottom":  739,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  671,
+                                                           "sectionHeight":  671,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  144,
+                                                           "contentBottom":  739,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  640,
+                                                           "sectionHeight":  640,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  97,
+                                                           "contentTop":  216,
+                                                           "contentBottom":  582,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  405,
+                                                           "sectionHeight":  405,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  127,
+                                                           "contentTop":  153,
+                                                           "contentBottom":  505,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  236,
+                                                           "sectionHeight":  236,
+                                                           "available":  671,
+                                                           "header":  97,
+                                                           "top":  532,
+                                                           "contentTop":  559,
+                                                           "contentBottom":  744,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  1024,
+                                      "height":  768,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  768,
+                                                           "sectionHeight":  768,
+                                                           "available":  768,
+                                                           "header":  81,
+                                                           "top":  0,
+                                                           "contentTop":  113,
+                                                           "contentBottom":  736,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  367,
+                                                           "sectionHeight":  367,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  127,
+                                                           "contentBottom":  402,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  1902,
+                                                           "sectionHeight":  1902,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  154,
+                                                           "contentBottom":  1935,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  1413,
+                                                           "sectionHeight":  1413,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  127,
+                                                           "contentBottom":  1424,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  949,
+                                                           "sectionHeight":  949,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  127,
+                                                           "contentBottom":  984,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  761,
+                                                           "sectionHeight":  761,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  206,
+                                                           "contentBottom":  764,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  825,
+                                                           "sectionHeight":  825,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  127,
+                                                           "contentBottom":  860,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  746,
+                                                           "sectionHeight":  746,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  280,
+                                                           "contentBottom":  781,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  610,
+                                                           "sectionHeight":  610,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  196,
+                                                           "contentBottom":  542,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  496,
+                                                           "sectionHeight":  496,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  169,
+                                                           "contentBottom":  531,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  288,
+                                                           "sectionHeight":  288,
+                                                           "available":  687,
+                                                           "header":  81,
+                                                           "top":  480,
+                                                           "contentTop":  530,
+                                                           "contentBottom":  744,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  768,
+                                      "height":  1024,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  1024,
+                                                           "sectionHeight":  1024,
+                                                           "available":  1024,
+                                                           "header":  81,
+                                                           "top":  0,
+                                                           "contentTop":  113,
+                                                           "contentBottom":  992,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  380,
+                                                           "sectionHeight":  380,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  142,
+                                                           "contentBottom":  400,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  1467,
+                                                           "sectionHeight":  1467,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  154,
+                                                           "contentBottom":  1500,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  1435,
+                                                           "sectionHeight":  1435,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  143,
+                                                           "contentBottom":  1431,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  1003,
+                                                           "sectionHeight":  1003,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  142,
+                                                           "contentBottom":  1023,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  634,
+                                                           "sectionHeight":  634,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  142,
+                                                           "contentBottom":  647,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  726,
+                                                           "sectionHeight":  726,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  142,
+                                                           "contentBottom":  745,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  604,
+                                                           "sectionHeight":  604,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  179,
+                                                           "contentBottom":  624,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  610,
+                                                           "sectionHeight":  610,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  81,
+                                                           "contentTop":  206,
+                                                           "contentBottom":  532,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  527,
+                                                           "sectionHeight":  527,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  186,
+                                                           "contentTop":  289,
+                                                           "contentBottom":  652,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  311,
+                                                           "sectionHeight":  311,
+                                                           "available":  943,
+                                                           "header":  81,
+                                                           "top":  713,
+                                                           "contentTop":  763,
+                                                           "contentBottom":  1000,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  390,
+                                      "height":  844,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  1088,
+                                                           "sectionHeight":  1088,
+                                                           "available":  844,
+                                                           "header":  77,
+                                                           "top":  0,
+                                                           "contentTop":  109,
+                                                           "contentBottom":  1088,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  418,
+                                                           "sectionHeight":  418,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  444,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  2095,
+                                                           "sectionHeight":  2095,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  138,
+                                                           "contentBottom":  2172,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  1379,
+                                                           "sectionHeight":  1379,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  1388,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  1297,
+                                                           "sectionHeight":  1297,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  127,
+                                                           "contentBottom":  1323,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  1063,
+                                                           "sectionHeight":  1063,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  449,
+                                                           "contentBottom":  1084,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  858,
+                                                           "sectionHeight":  858,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  885,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  929,
+                                                           "sectionHeight":  929,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  132,
+                                                           "contentBottom":  956,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  610,
+                                                           "sectionHeight":  610,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  217,
+                                                           "contentBottom":  513,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  840,
+                                                           "sectionHeight":  840,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  128,
+                                                           "contentBottom":  867,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  518,
+                                                           "sectionHeight":  518,
+                                                           "available":  767,
+                                                           "header":  77,
+                                                           "top":  325,
+                                                           "contentTop":  375,
+                                                           "contentBottom":  756,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  },
+                                  {
+                                      "width":  375,
+                                      "height":  667,
+                                      "sections":  [
+                                                       {
+                                                           "selector":  "inicio",
+                                                           "height":  1074,
+                                                           "sectionHeight":  1074,
+                                                           "available":  667,
+                                                           "header":  77,
+                                                           "top":  0,
+                                                           "contentTop":  109,
+                                                           "contentBottom":  1074,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "manifesto",
+                                                           "height":  418,
+                                                           "sectionHeight":  418,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  117,
+                                                           "contentBottom":  455,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "projetos",
+                                                           "height":  2061,
+                                                           "sectionHeight":  2061,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  138,
+                                                           "contentBottom":  2137,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "ambientes",
+                                                           "height":  1402,
+                                                           "sectionHeight":  1402,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  117,
+                                                           "contentBottom":  1421,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "processo",
+                                                           "height":  1260,
+                                                           "sectionHeight":  1260,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  117,
+                                                           "contentBottom":  1297,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "sobre",
+                                                           "height":  1047,
+                                                           "sectionHeight":  1047,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  420,
+                                                           "contentBottom":  1078,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "detalhes",
+                                                           "height":  818,
+                                                           "sectionHeight":  818,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  117,
+                                                           "contentBottom":  855,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "project-highlight",
+                                                           "height":  898,
+                                                           "sectionHeight":  898,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  130,
+                                                           "contentBottom":  935,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "final-cta",
+                                                           "height":  590,
+                                                           "sectionHeight":  590,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  184,
+                                                           "contentBottom":  526,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "contato",
+                                                           "height":  819,
+                                                           "sectionHeight":  819,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  77,
+                                                           "contentTop":  117,
+                                                           "contentBottom":  856,
+                                                           "fits":  false,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       },
+                                                       {
+                                                           "selector":  "site-footer",
+                                                           "height":  518,
+                                                           "sectionHeight":  518,
+                                                           "available":  590,
+                                                           "header":  77,
+                                                           "top":  149,
+                                                           "contentTop":  199,
+                                                           "contentBottom":  579,
+                                                           "fits":  true,
+                                                           "clipped":  [
+
+                                                                       ],
+                                                           "horizontalOverflow":  false
+                                                       }
+                                                   ]
+                                  }
+                              ],
+                  "errors":  [
+
+                             ],
+                  "output":  "C:\\Users\\User\\AppData\\Local\\Temp\\vilotti-viewport-fit\\after"
+              }
+}

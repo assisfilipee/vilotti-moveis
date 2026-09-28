@@ -1,0 +1,305 @@
+{
+  "checks": [
+    {
+      "name": "Local resources and anchors",
+      "pass": true,
+      "detail": {
+        "badImages": [],
+        "missingAnchors": [],
+        "h1": 1,
+        "fonts": [
+          "Cormorant Garamond",
+          "Manrope"
+        ],
+        "schema": {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Vilotti Móveis",
+          "description": "Móveis sob medida e projetos personalizados para ambientes residenciais e comerciais em Itapema/SC. Mais de 18 anos de atuação.",
+          "telephone": "+5547997271973",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rua 846, 104, Alto São Bento",
+            "addressLocality": "Itapema",
+            "addressRegion": "SC",
+            "postalCode": "88220-000",
+            "addressCountry": "BR"
+          }
+        }
+      }
+    },
+    {
+      "name": "Header initial state",
+      "pass": true
+    },
+    {
+      "name": "No horizontal overflow 320x740",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 305,
+        "offenders": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 360x800",
+      "pass": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 345,
+        "offenders": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 390x844",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 375,
+        "offenders": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "Environment grid has no implicit rows at 390px",
+      "pass": true,
+      "detail": {
+        "rows": 3,
+        "columns": 2
+      }
+    },
+    {
+      "name": "No horizontal overflow 480x900",
+      "pass": true,
+      "detail": {
+        "width": 480,
+        "scrollWidth": 465,
+        "offenders": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 600x900",
+      "pass": true,
+      "detail": {
+        "width": 600,
+        "scrollWidth": 585,
+        "offenders": [
+          "",
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 768x1024",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "scrollWidth": 753,
+        "offenders": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "Environment grid has no implicit rows at 768px",
+      "pass": true,
+      "detail": {
+        "rows": 3,
+        "columns": 2
+      }
+    },
+    {
+      "name": "No horizontal overflow 1024x900",
+      "pass": true,
+      "detail": {
+        "width": 1024,
+        "scrollWidth": 1009,
+        "offenders": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 1280x800",
+      "pass": true,
+      "detail": {
+        "width": 1280,
+        "scrollWidth": 1265,
+        "offenders": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 1440x1000",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1425,
+        "offenders": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "Environment grid has no implicit rows at 1440px",
+      "pass": true,
+      "detail": {
+        "rows": 2,
+        "columns": 3
+      }
+    },
+    {
+      "name": "No horizontal overflow 1920x1080",
+      "pass": true,
+      "detail": {
+        "width": 1920,
+        "scrollWidth": 1905,
+        "offenders": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "No horizontal overflow 1440x640",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1425,
+        "offenders": [
+          "",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "Sticky portfolio enabled",
+      "pass": true
+    },
+    {
+      "name": "Portfolio stage 1",
+      "pass": true
+    },
+    {
+      "name": "Portfolio stage 2",
+      "pass": true
+    },
+    {
+      "name": "Portfolio stage 3",
+      "pass": true
+    },
+    {
+      "name": "Portfolio stage 4",
+      "pass": true
+    },
+    {
+      "name": "Portfolio stage 5",
+      "pass": true
+    },
+    {
+      "name": "Scrolled header and back to top",
+      "pass": true
+    },
+    {
+      "name": "Mobile menu opens and isolates background",
+      "pass": true
+    },
+    {
+      "name": "Mobile menu covers viewport width",
+      "pass": true
+    },
+    {
+      "name": "Mobile focus trap",
+      "pass": true
+    },
+    {
+      "name": "Escape closes menu",
+      "pass": true
+    },
+    {
+      "name": "Anchor offset and menu close",
+      "pass": true,
+      "detail": {
+        "menuOpen": false,
+        "top": 92.59375,
+        "header": 77
+      }
+    },
+    {
+      "name": "Mobile section overflow #ambientes",
+      "pass": true
+    },
+    {
+      "name": "Mobile section overflow #sobre",
+      "pass": true
+    },
+    {
+      "name": "Mobile section overflow #detalhes",
+      "pass": true
+    },
+    {
+      "name": "Mobile section overflow .project-highlight",
+      "pass": true
+    },
+    {
+      "name": "Mobile section overflow .final-cta",
+      "pass": true
+    },
+    {
+      "name": "Mobile section overflow #contato",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion and full portfolio fallback",
+      "pass": true
+    },
+    {
+      "name": "WhatsApp bubble after five seconds",
+      "pass": true
+    },
+    {
+      "name": "WhatsApp bubble hides",
+      "pass": true
+    },
+    {
+      "name": "No runtime exceptions",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Stylesheet class references",
+      "pass": true,
+      "detail": {
+        "ruleCount": 467,
+        "unusedClasses": []
+      }
+    },
+    {
+      "name": "Without JavaScript essential content remains available",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "output": "C:\\Users\\User\\AppData\\Local\\Temp\\vilotti-qa"
+}
